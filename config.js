@@ -1,12 +1,12 @@
-// - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • FahriAdison
-// • The.Sad.Boy01
-// • Rlxfly
+// - - THANKS TO USE MY BOT NAZAKAT - -
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
+// • ꧁༒𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽༒꧂
+// • ꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂
 // • Rasel comel
 // • ImYanXiao
 // • Xtreshe (Beban)
@@ -41,27 +41,27 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
+global.sig = 'Mughal_writes7' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sgc = '꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '923354971357' //Nomor Danamu
+global.ppulsa = '923354971957' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '923354971357' //Nomor Bot
+global.nomorown = '923354971357' //Nomor Owner
+global.namebot = '꧁༒☬𝓜𝓪𝓴𝓮 𝓑𝔂 𝓝𝓪𝔃𝓪𝓴𝓪𝓽☬༒꧂' //Nama Bot
+global.nameown = 'Nazakat🇰' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['923354971357', 'NAzakat🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
